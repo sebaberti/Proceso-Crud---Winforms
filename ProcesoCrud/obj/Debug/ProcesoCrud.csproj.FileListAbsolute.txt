@@ -1,0 +1,11 @@
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\bin\Debug\ProcesoCrud.exe.config
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\bin\Debug\ProcesoCrud.exe
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\bin\Debug\ProcesoCrud.pdb
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.csproj.AssemblyReference.cache
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.Presentation.Frm_Products.resources
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.Properties.Resources.resources
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.csproj.GenerateResource.cache
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.csproj.CoreCompileInputs.cache
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.exe
+C:\Users\MSI\OneDrive\Escritorio\CRUD -C#\SOL_ProcesoCrud\ProcesoCrud\obj\Debug\ProcesoCrud.pdb
