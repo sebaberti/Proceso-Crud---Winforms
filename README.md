@@ -1,6 +1,6 @@
 <h1>APP DESKTOP - WINFORMS 2</h1>
 <p>Desarrollada en .NET Framework con C# usando la libreria ADO .NET para la conexion a bases de datos SQL Server.Este proyecto lo realice para afianzar los conocimientos adquiridos en el nivel 2 de Maxi Programa 
-y ampliar los mismos ya que en este proyecto ademas de crear mi propia base de datos tambien trabaje toda la conexion mediante procedimientos almacenados, ademas decici agregarle la funcionalidad de un reporte </p>
+y ampliar los mismos ya que en este proyecto ademas de crear mi propia base de datos tambien trabaje toda la conexion mediante procedimientos almacenados, ademas decici agregarle la funcionalidad de un reporte mediante el cual se puede exportar a el listado de preductos a un excel o pdf </p>
 <ul>
   <li>Alta, Baja y Modificación de artículos.</li>
    <li>Campo de busqueda para filtrar productos, y busqueda avanzada para filtrar segun criterios</li>
