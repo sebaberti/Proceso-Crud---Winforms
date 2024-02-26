@@ -4,7 +4,6 @@ y ampliar los mismos ya que en este proyecto ademas de crear mi propia base de d
 <ul>
   <li>Alta, Baja y Modificación de artículos.</li>
    <li>Campo de busqueda para filtrar productos, y busqueda avanzada para filtrar segun criterios</li>
-   <li>Carga de imagenes para los articulos</li>
    <li>Manejo de excepciones</li>
    <li>Manejo de validaciones correspondiente para evitar errores en el programa</li>
    <li>Conexion a base de datos SQL server</li>
